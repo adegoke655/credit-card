@@ -21,7 +21,7 @@ Fraudulent transactions make up only **0.172%** of all transactions, making the 
 
 ## Data Exploration
 
-The project include a detailed exploration phase to understand the dataset's characteristics:
+The project includes a detailed exploration phase to understand the dataset's characteristics:
 
 - **Missing Data:** No missing data was found.  
 - **Data Imbalance:** Severe imbalance between fraudulent and non-fraudulent transactions was visualized.  
