@@ -18,7 +18,7 @@ The dataset includes numerical features resulting from a PCA transformation due 
 Fraudulent transactions make up only **0.172%** of all transactions, making the dataset highly unbalanced.
 
 ---
-
+class 1
 ## Data Exploration
 
 The project includes a detailed exploration phase to understand the dataset's characteristics:
