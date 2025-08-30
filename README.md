@@ -54,5 +54,5 @@ The project evaluated five machine learning models using **ROC-AUC** as the prim
 ---
 
 ## Conclusion
-
+okay
 Gradient boosting models like **XGBoost** and **LightGBM** are highly effective at detecting credit card fraud, outperforming simpler ensemble methods. The high ROC-AUC scores indicate strong ability to handle data imbalance and accurately distinguish between fraudulent and legitimate transactions.
