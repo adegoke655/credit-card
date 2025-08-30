@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Predictive Models
 
-This project explores and compares several predictive models for detecting fraudulent credit card transactions. The dataset, obtained from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud), contains credit card transactions from European cardholders in September 2013. A key challenge is its high imbalance, with only **492 frauds out of 284,807 transactions**.
+This project explores and compares several predictive models for detecting fraudulent credit card transactions. The dataset obtained from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud), contains credit card transactions from European cardholders in September 2013. A key challenge is its high imbalance, with only **492 frauds out of 284,807 transactions**.
 
 ---
 
@@ -54,5 +54,5 @@ The project evaluated five machine learning models using **ROC-AUC** as the prim
 ---
 
 ## Conclusion
-okay
+
 Gradient boosting models like **XGBoost** and **LightGBM** are highly effective at detecting credit card fraud, outperforming simpler ensemble methods. The high ROC-AUC scores indicate strong ability to handle data imbalance and accurately distinguish between fraudulent and legitimate transactions.
