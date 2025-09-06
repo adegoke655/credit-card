@@ -23,7 +23,7 @@ Fraudulent transactions make up only **0.172%** of all transactions, making the 
 
 The project include a detailed exploration phase to understand the dataset's characteristics:
 
-- **Missing Data:** No missing data was found.  
+- **Missing Data:** No missing data was found. 
 - **Data Imbalance:** Severe imbalance between fraudulent and non-fraudulent transactions was visualized.  
 - **Time and Amount Analysis:** Fraudulent transactions have a more even distribution over time. Legitimate transactions show fewer transactions during certain hours, likely nighttime in Europe. 
 - **Feature Correlation:** PCA features (V1-V28) show little correlation with each other. Some features show correlation with `Time` (inverse correlation with V3) and `Amount` (direct correlation with V7 and V20, inverse with V1 and V5).  
