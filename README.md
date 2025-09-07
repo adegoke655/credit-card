@@ -6,7 +6,7 @@ This project explores and compares several predictive models for detecting fraud
 
 ## Dataset
 
-The dataset includes numerical features resulting from a PCA transformation due to confidentiality. The only features not transformed are `Time` and `Amount`.
+The dataset includes numerical features resulting from a PCA transformation due to confidentiality. The only features not transformed are `Time` and `Amount`. 
 
 | Feature | Description |
 |---------|-------------|
