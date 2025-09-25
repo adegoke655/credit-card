@@ -11,7 +11,7 @@ The dataset includes numerical features resulting from a PCA transformation due 
 | Feature | Description |
 |---------|-------------|
 | V1 to V28 | Principal components from PCA |
-| Time | Seconds elapsed between each transaction and the first transaction in the dataset |
+| Time | Seconds elapsed between each transaction and the first transaction in the dataset | 
 | Amount | Transaction amount |
 | Class | Response variable: `1` indicates a fraudulent transaction, `0` indicates a legitimate transaction |
 
