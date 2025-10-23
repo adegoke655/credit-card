@@ -19,7 +19,7 @@ Fraudulent transactions make up only **0.172%** of all transactions, making the 
 
 ---
 
-## Data Exploration
+## Data Exploration 
 
 The project include a detailed exploration phase to understand the dataset's characteristics:
 
