@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Predictive Models
 
-This project explores and compares several predictive models for detecting fraudulents credit card transactions. The dataset obtained from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud), contains credit card transactions from European cardholders in September 2013. A key challenge is its high imbalance, with only **492 frauds out of 284,807 transactions**.  
+This project explores and compares several predictive models for detecting fraudulents credit card transactions. The dataset obtained from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud), contains credit card transactions from European cardholders in September 2013. A key challenge is its high imbalance, with only **492 frauds out of 284,807 transactions**. 
  
 ---
 
